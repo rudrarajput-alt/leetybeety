@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rudrarajput-alt/leetybeety/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudrarajput-alt/leetybeety/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rudrarajput-alt/leetybeety/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudrarajput-alt/leetybeety/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rudrarajput-alt/leetybeety/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/rudrarajput-alt/leetybeety/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rudrarajput-alt/leetybeety/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rudrarajput-alt/leetybeety/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rudrarajput-alt/leetybeety/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
