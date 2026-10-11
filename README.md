@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rudrarajput-alt/leetybeety/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rudrarajput-alt/leetybeety/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudrarajput-alt/leetybeety/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/rudrarajput-alt/leetybeety/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rudrarajput-alt/leetybeety/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/rudrarajput-alt/leetybeety/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rudrarajput-alt/leetybeety/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/rudrarajput-alt/leetybeety/tree/master/0162-find-peak-element) |
 ## Sorting
 |  |
 | ------- |
